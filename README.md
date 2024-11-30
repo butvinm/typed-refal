@@ -1,4 +1,4 @@
-> Проект основан на [Рефала-05](https://github.com/Mazdaywik/Refal-05)
+> Проект основан на [Рефал-05](https://github.com/Mazdaywik/Refal-05)
 
 # Компилятор Рефала-05
 ## О языке и компиляторе
